@@ -1,14 +1,112 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"event": [
+{
+"id": "event1",
+"eventId": "",
+"season": "",
+"weekNumber": "",
+"league": "",
+"eventTitle": "",
+"eventType": "",
+"eventCaption": "",
+"eventStartDateUTC": "",
+"eventEndDateUTC": "",
+"eventTags": [
+"",
+"",
+"",
+"",
+""
+],
+"eventCategory": "",
+"venue": {
+"name": "",
+"address": "",
+"id": ""
+},
+"createdDate": "2020-01-11T00:00:00Z",
+"updatedDate": "2020-01-11T00:00:00Z"
+},
+  {
+"id": "event2",
+"eventId": "",
+"season": "",
+"weekNumber": "",
+"league": "",
+"eventTitle": "",
+"eventType": "",
+"eventCaption": "",
+"eventStartDateUTC": "",
+"eventEndDateUTC": "",
+"eventTags": [
+"",
+"",
+"",
+"",
+""
+],
+"eventCategory": "",
+"venue": {
+"name": "",
+"address": "",
+"id": ""
+},
+"createdDate": "2020-01-11T00:00:00Z",
+"updatedDate": "2020-01-11T00:00:00Z"
+},
+  {
+"id": "event3",
+"eventId": "",
+"season": "",
+"weekNumber": "",
+"league": "",
+"eventTitle": "",
+"eventType": "",
+"eventCaption": "",
+"eventStartDateUTC": "",
+"eventEndDateUTC": "",
+"eventTags": [
+"",
+"",
+"",
+"",
+""
+],
+"eventCategory": "",
+"venue": {
+"name": "",
+"address": "",
+"id": ""
+},
+"createdDate": "2020-01-11T00:00:00Z",
+"updatedDate": "2020-01-11T00:00:00Z"
+},
+  {
+"id": "event4",
+"eventId": "",
+"season": "",
+"weekNumber": "",
+"league": "",
+"eventTitle": "",
+"eventType": "",
+"eventCaption": "",
+"eventStartDateUTC": "",
+"eventEndDateUTC": "",
+"eventTags": [
+"",
+"",
+"",
+"",
+""
+],
+"eventCategory": "",
+"venue": {
+"name": "",
+"address": "",
+"id": ""
+},
+"createdDate": "2020-01-11T00:00:00Z",
+"updatedDate": "2020-01-11T00:00:00Z"
+}
+]
 }
